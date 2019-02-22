@@ -7,6 +7,6 @@ This is study for Kotlin
   * 양형배
   * 손권
   
-* chater01
+* chater02
   * reviewer : 왕언준
   * sample : 
