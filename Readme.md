@@ -8,5 +8,5 @@ This is study for Kotlin
   * 손권
   
 1. 
-2. chapter2
- 1. 왕언준
+1. chapter2
+2. 왕언준
