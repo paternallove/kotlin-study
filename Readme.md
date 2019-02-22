@@ -9,4 +9,4 @@ This is study for Kotlin
   
 1. 
 1. chapter2
-2. 왕언준
+  * 왕언준
