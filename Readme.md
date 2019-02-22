@@ -8,5 +8,5 @@ This is study for Kotlin
   * 손권
   
 * chater01
- * reviewer : 왕언준
- * sample : 
+  * reviewer : 왕언준
+  * sample : 
